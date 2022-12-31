@@ -16,8 +16,8 @@ export const Education = () => {
       </Typography>
 
       <Grid container justifyContent='space-evenly' >
-        <Grid item xs={5}>
-          <Timeline sx={{ "& .MuiTimelineItem-root:before": { flex: 0 } }}>
+        <Grid item md={5}>
+        <Timeline sx={{ "& .MuiTimelineItem-root:before": { flex: 0 } }}>
             <TimelineItem>
               {/* <TimelineOppositeContent color='text.secondary' >9:30 am</TimelineOppositeContent> */}
               <TimelineSeparator>
@@ -48,7 +48,7 @@ export const Education = () => {
 
           </Timeline>
         </Grid>
-        <Grid item xs={5}>
+        <Grid item md={5}>
           <Timeline sx={{ "& .MuiTimelineItem-root:before": { flex: 0 } }}>
             <TimelineItem>
               {/* <TimelineOppositeContent color='text.secondary' >9:30 am</TimelineOppositeContent> */}
