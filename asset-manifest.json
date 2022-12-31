@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/my-web-resume/static/css/main.fb1caed2.css",
-    "main.js": "/my-web-resume/static/js/main.ac74ceaf.js",
-    "static/js/787.e47844a4.chunk.js": "/my-web-resume/static/js/787.e47844a4.chunk.js",
-    "static/media/ticTacToe-card.png": "/my-web-resume/static/media/ticTacToe-card.953a21e4a063c134ecb2.png",
-    "static/media/taskManager-card.png": "/my-web-resume/static/media/taskManager-card.82ac79f500232b761ce2.png",
-    "static/media/dweller-card.jpg": "/my-web-resume/static/media/dweller-card.3280325bc62801fcdd94.jpg",
-    "static/media/pizzaShop-card.jpg": "/my-web-resume/static/media/pizzaShop-card.c06f50c6b69ef0490ca1.jpg",
-    "static/media/expenseManager-card.png": "/my-web-resume/static/media/expenseManager-card.240d92385030aa4e0785.png",
-    "static/media/miniCalc-card.jpg": "/my-web-resume/static/media/miniCalc-card.d6e2ffd5170e744485bf.jpg",
-    "static/media/image1.jpeg": "/my-web-resume/static/media/image1.8be15551c6910db60950.jpeg",
-    "static/media/spotify-card.webp": "/my-web-resume/static/media/spotify-card.c1449dea5c7534510655.webp",
-    "static/media/musicPlayer-card.webp": "/my-web-resume/static/media/musicPlayer-card.da750365b7502e8cec08.webp",
-    "static/media/barberShop-card.webp": "/my-web-resume/static/media/barberShop-card.3691c0df5c6644e5a31f.webp",
-    "static/media/contact.jpg": "/my-web-resume/static/media/contact.ce7bd8672d03f69c55e4.jpg",
-    "static/media/linkedIn-card.webp": "/my-web-resume/static/media/linkedIn-card.8819fe4e48505249d470.webp",
-    "index.html": "/my-web-resume/index.html",
-    "main.fb1caed2.css.map": "/my-web-resume/static/css/main.fb1caed2.css.map",
-    "main.ac74ceaf.js.map": "/my-web-resume/static/js/main.ac74ceaf.js.map",
-    "787.e47844a4.chunk.js.map": "/my-web-resume/static/js/787.e47844a4.chunk.js.map"
+    "main.css": "/web-resume/static/css/main.fb1caed2.css",
+    "main.js": "/web-resume/static/js/main.6665acc0.js",
+    "static/js/787.e47844a4.chunk.js": "/web-resume/static/js/787.e47844a4.chunk.js",
+    "static/media/ticTacToe-card.png": "/web-resume/static/media/ticTacToe-card.953a21e4a063c134ecb2.png",
+    "static/media/taskManager-card.png": "/web-resume/static/media/taskManager-card.82ac79f500232b761ce2.png",
+    "static/media/dweller-card.jpg": "/web-resume/static/media/dweller-card.3280325bc62801fcdd94.jpg",
+    "static/media/pizzaShop-card.jpg": "/web-resume/static/media/pizzaShop-card.c06f50c6b69ef0490ca1.jpg",
+    "static/media/expenseManager-card.png": "/web-resume/static/media/expenseManager-card.240d92385030aa4e0785.png",
+    "static/media/miniCalc-card.jpg": "/web-resume/static/media/miniCalc-card.d6e2ffd5170e744485bf.jpg",
+    "static/media/image1.jpeg": "/web-resume/static/media/image1.8be15551c6910db60950.jpeg",
+    "static/media/spotify-card.webp": "/web-resume/static/media/spotify-card.c1449dea5c7534510655.webp",
+    "static/media/musicPlayer-card.webp": "/web-resume/static/media/musicPlayer-card.da750365b7502e8cec08.webp",
+    "static/media/barberShop-card.webp": "/web-resume/static/media/barberShop-card.3691c0df5c6644e5a31f.webp",
+    "static/media/contact.jpg": "/web-resume/static/media/contact.ce7bd8672d03f69c55e4.jpg",
+    "static/media/linkedIn-card.webp": "/web-resume/static/media/linkedIn-card.8819fe4e48505249d470.webp",
+    "index.html": "/web-resume/index.html",
+    "main.fb1caed2.css.map": "/web-resume/static/css/main.fb1caed2.css.map",
+    "main.6665acc0.js.map": "/web-resume/static/js/main.6665acc0.js.map",
+    "787.e47844a4.chunk.js.map": "/web-resume/static/js/787.e47844a4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fb1caed2.css",
-    "static/js/main.ac74ceaf.js"
+    "static/js/main.6665acc0.js"
   ]
 }
