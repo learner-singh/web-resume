@@ -2,6 +2,7 @@ import { Box, Paper, Typography, Grid, Button, Stack } from '@mui/material'
 import image from '../images/image1.jpeg'
 import GetAppIcon from '@mui/icons-material/GetApp'
 import VisibilityIcon from '@mui/icons-material/Visibility'
+import Resume from '../pdf/KISHAN_SINGH_Resume.pdf'
 
 export const About = () => {
     return (
@@ -17,7 +18,8 @@ export const About = () => {
                             I am Kishan Singh, Frontend Developer from Saket, New Delhi. Currently I am pursuing to grow my skills covering even backend and database technologies, so that I can become a Full Stack Developer. My ambition is to secure a challenging position in an esteemed organization which helps me to realize my potential and to enhance my skill-set and accomplishing organizational growth.
                         </Typography>
                         <Stack spacing={2} direction='row' justifyContent='center' m={3}>
-                            <Button variant='contained' color='info' startIcon={<GetAppIcon />} > Resume</Button>
+                            <a href={Resume} download='KISHAN_SINGH_Resume'>
+                            <Button variant='contained' color='info' startIcon={<GetAppIcon />} > Resume</Button> </a>
                             <Button variant='contained' color='info' startIcon={<VisibilityIcon />} href='#projects' > Projects</Button>
                         </Stack>
                     </Grid>
