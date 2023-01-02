@@ -14,7 +14,7 @@ export const About = () => {
                             Hello,
                         </Typography>
                         <Typography variant='h6' component='div' textAlign='justify' paddingLeft={4} >
-                            I am Kishan Singh, Frontent Developer from Saket, New Delhi. Currently I am pursuing to grow my skills covering even backend and database technologies, so that I can become a Full Stack Developer. My ambition is to secure a challenging position in an esteemed organization which helps me to realize my potential and to enhance my skill-set and accomplishing organizational growth.
+                            I am Kishan Singh, Frontend Developer from Saket, New Delhi. Currently I am pursuing to grow my skills covering even backend and database technologies, so that I can become a Full Stack Developer. My ambition is to secure a challenging position in an esteemed organization which helps me to realize my potential and to enhance my skill-set and accomplishing organizational growth.
                         </Typography>
                         <Stack spacing={2} direction='row' justifyContent='center' m={3}>
                             <Button variant='contained' color='info' startIcon={<GetAppIcon />} > Resume</Button>
