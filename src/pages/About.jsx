@@ -10,7 +10,7 @@ export const About = () => {
 
                 <Grid container my={3} justifyContent='space-evenly' alignItems='center' >
                     <Grid item xs={7} >
-                        <Typography variant='h2' component='div' paddingTop={4} fontWeight='bold' sx={{color: '#0288d1'}}>
+                        <Typography variant='h2' component='div' paddingTop={4} fontWeight='bold' sx={{ color: '#0288d1' }}>
                             Hello,
                         </Typography>
                         <Typography variant='h6' component='div' textAlign='justify' paddingLeft={4} >
@@ -18,7 +18,7 @@ export const About = () => {
                         </Typography>
                         <Stack spacing={2} direction='row' justifyContent='center' m={3}>
                             <Button variant='contained' color='info' startIcon={<GetAppIcon />} > Resume</Button>
-                            <Button variant='contained' color='info' startIcon={<VisibilityIcon />} href='#projects' >Projects</Button>
+                            <Button variant='contained' color='info' startIcon={<VisibilityIcon />} href='#projects' > Projects</Button>
                         </Stack>
                     </Grid>
                     <Grid item xs={4}>
