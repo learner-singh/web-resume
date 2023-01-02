@@ -67,11 +67,19 @@ export const Skills = () => {
 
                 <Grid item md={5}>
                     <Box flexDirection='row' sx={{ display: 'flex', justifyContent: 'space-between' }}>
+                        <Typography>C++</Typography>
+                        <Typography>60%</Typography>
+                    </Box>
+                    <LinearProgress variant='determinate' color='warning' value={60} />
+                </Grid>
+
+                {/* <Grid item md={5}>
+                    <Box flexDirection='row' sx={{ display: 'flex', justifyContent: 'space-between' }}>
                         <Typography>jQuerry</Typography>
                         <Typography>0%</Typography>
                     </Box>
                     <LinearProgress variant='determinate' color='warning' value={0} />
-                </Grid>
+                </Grid> */}
             </Grid>
 
         </Box>
