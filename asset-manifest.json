@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/web-resume/static/css/main.37ba7568.css",
-    "main.js": "/web-resume/static/js/main.2275b201.js",
+    "main.js": "/web-resume/static/js/main.bf3aa2ee.js",
     "static/js/787.e47844a4.chunk.js": "/web-resume/static/js/787.e47844a4.chunk.js",
     "static/media/ticTacToe-card.png": "/web-resume/static/media/ticTacToe-card.953a21e4a063c134ecb2.png",
     "static/media/taskManager-card.png": "/web-resume/static/media/taskManager-card.82ac79f500232b761ce2.png",
@@ -18,11 +18,11 @@
     "static/media/linkedIn-card.webp": "/web-resume/static/media/linkedIn-card.8819fe4e48505249d470.webp",
     "index.html": "/web-resume/index.html",
     "main.37ba7568.css.map": "/web-resume/static/css/main.37ba7568.css.map",
-    "main.2275b201.js.map": "/web-resume/static/js/main.2275b201.js.map",
+    "main.bf3aa2ee.js.map": "/web-resume/static/js/main.bf3aa2ee.js.map",
     "787.e47844a4.chunk.js.map": "/web-resume/static/js/787.e47844a4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.37ba7568.css",
-    "static/js/main.2275b201.js"
+    "static/js/main.bf3aa2ee.js"
   ]
 }
