@@ -8,7 +8,7 @@ export const Skills = () => {
             </Typography>
 
             {/* <Grid id='skills' container paddingBottom={4} rowSpacing={5} justifyContent='space-evenly' > */}
-                <Box minWidth= '300px' p={3}>
+                <Box minWidth= '300px' p={1}>
                     <Box flexDirection='row' sx={{ display: 'flex', justifyContent: 'space-between' }}>
                         {/* <Avatar alt="html Icon" src='https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png' size='small' p={1}/> */}
                         <Typography component='span'>HTML 5</Typography>
@@ -17,7 +17,7 @@ export const Skills = () => {
                     <LinearProgress variant='determinate' color='warning' value={70} />
                 </Box>
 
-                <Box minWidth= '300px' p={3}>
+                <Box minWidth= '300px' p={1}>
                     <Box flexDirection='row' sx={{ display: 'flex', justifyContent: 'space-between' }}>
                         <Typography>CSS 3</Typography>
                         <Typography>70%</Typography>
@@ -25,7 +25,7 @@ export const Skills = () => {
                     <LinearProgress variant='determinate' color='warning' value={70} />
                 </Box>
 
-                <Box minWidth= '300px' p={3}>
+                <Box minWidth= '300px' p={1}>
                     <Box flexDirection='row' sx={{ display: 'flex', justifyContent: 'space-between' }}>
                         <Typography>Bootstrap</Typography>
                         <Typography>60%</Typography>
@@ -33,7 +33,7 @@ export const Skills = () => {
                     <LinearProgress variant='determinate' color='warning' value={60} />
                 </Box>
 
-                <Box minWidth= '300px' p={3}>
+                <Box minWidth= '300px' p={1}>
                     <Box flexDirection='row' sx={{ display: 'flex', justifyContent: 'space-between' }}>
                         <Typography>JavaScript</Typography>
                         <Typography>60%</Typography>
@@ -41,7 +41,7 @@ export const Skills = () => {
                     <LinearProgress variant='determinate' color='warning' value={60} />
                 </Box>
 
-                <Box minWidth= '300px' p={3}>
+                <Box minWidth= '300px' p={1}>
                     <Box flexDirection='row' sx={{ display: 'flex', justifyContent: 'space-between' }}>
                         <Typography>React JS</Typography>
                         <Typography>50%</Typography>
@@ -49,7 +49,7 @@ export const Skills = () => {
                     <LinearProgress variant='determinate' color='warning' value={50} />
                 </Box>
 
-                <Box minWidth= '300px' p={3}>
+                <Box minWidth= '300px' p={1}>
                     <Box flexDirection='row' sx={{ display: 'flex', justifyContent: 'space-between' }}>
                         <Typography>TypeScript</Typography>
                         <Typography>40%</Typography>
@@ -57,7 +57,7 @@ export const Skills = () => {
                     <LinearProgress variant='determinate' color='warning' value={40} />
                 </Box>
 
-                <Box minWidth= '300px' p={3}>
+                <Box minWidth= '300px' p={1}>
                     <Box flexDirection='row' sx={{ display: 'flex', justifyContent: 'space-between' }}>
                         <Typography>Material UI</Typography>
                         <Typography>50%</Typography>
@@ -65,7 +65,7 @@ export const Skills = () => {
                     <LinearProgress variant='determinate' color='warning' value={50} />
                 </Box>
 
-                <Box minWidth= '300px' p={3}>
+                <Box minWidth= '300px' p={1}>
                     <Box flexDirection='row' sx={{ display: 'flex', justifyContent: 'space-between' }}>
                         <Typography>C++</Typography>
                         <Typography>60%</Typography>
