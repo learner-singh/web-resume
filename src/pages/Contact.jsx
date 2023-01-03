@@ -13,7 +13,7 @@ export const Contact = () => {
                 CONTACT
             </Typography>
 
-            <Box sx={{display: 'flex', justifyContent:'space-around'}}>
+            <Box sx={{display: 'flex', flexWrap: 'wrap', justifyContent: 'space-around'}}>
             <Stack direction='column' spacing={1} paddingLeft={2}>
                 <Typography variant='h6'> Kishan Singh</Typography>
                 <Typography variant='subtitle1' color='error'>Frontend Developer</Typography>
@@ -40,8 +40,8 @@ export const Contact = () => {
             <Stack>
                 <Box component='img' src={ContactImage} alt='Contact Image'
                     sx={{
-                        height:'200px',
-                        width: '300px',
+                        maxHeight:'200px',
+                        maxWidth: '300px',
                         borderRadius: '8px'
                     }}
                 />
@@ -52,12 +52,12 @@ export const Contact = () => {
             <Stack direction='row' spacing={1} p={3} justifyContent='center'>
                 <Link href='https://www.linkedin.com/in/kishan-singh-53686b220/' target='_blank' rel="noopener" underline="none" >
                     <IconButton aria-label="LinkedIn" color='error'>
-                        <LinkedInIcon sx={{ height: 48, width: 48 }} />
+                        <LinkedInIcon sx={{ maxHeight: 48, maxWidth: 48 }} />
                     </IconButton>
                 </Link>
                 <Link href='https://github.com/learner-singh?tab=repositories' target='_blank' rel="noopener" underline="none" >
                     <IconButton aria-label="LinkedIn" color='error'>
-                        <GitHubIcon sx={{ height: 48, width: 48 }} />
+                        <GitHubIcon sx={{ maxHeight: 48, maxWidth: 48 }} />
                     </IconButton>
                 </Link>
             </Stack>

@@ -63,7 +63,8 @@ export const Projects = () => {
             <TabPanel value='5'>
                <ProjectTab data= {bootstrapProjects} />
             </TabPanel>
-            {/* <TabPanel value='6'> jQuery Projects</TabPanel> */}
+            {/* <TabPanel value='6'> jQuery Projects
+            </TabPanel> */}
         </TabContext>
 
         </Box>
